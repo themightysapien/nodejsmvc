@@ -5,7 +5,7 @@ exports.connect = function(app){
 		  host     : 'localhost',
 		  user     : 'root',
 		  password : '',
-		  database : 'laravel_smscentral'
+		  database : 'nodejskearlbreak'
 		});
 };
 exports.getConnection = function(){
