@@ -27,6 +27,6 @@ There is router.js inside **lib** folder which exports run function. Express Rou
 
 ## Other Tips
 There are two global variables **appRoot** and **loader** which can be used anywhere throught the application. **loader** is the main file loader for our application. You can easily extend the loader by changing the **libs/autoload.js** file as per your needs.
-And the ** appRoot ** is the root url. 
+And **appRoot** is the root url. 
 
 
