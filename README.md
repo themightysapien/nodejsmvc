@@ -20,7 +20,7 @@ module.exports = function(app){ ... }
 
 ## Models
 * Models are similar to controller. Make a file inside models directory.
-* Models export as many function/objects unlike controller ** ( see the user model for more info **
+* Models export as many function/objects unlike controller **( see the user model for more info )**
 
 ## Routing
 There is router.js inside **lib** folder which exports run function. Express Routing used here.
