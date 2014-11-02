@@ -5,7 +5,7 @@ exports.connect = function(app){
 		  host     : 'localhost',
 		  user     : 'root',
 		  password : '',
-		  database : 'nodejskearlbreak'
+		  database : 'nodejs_experiment'
 		});
 };
 exports.getConnection = function(){
